@@ -4,7 +4,6 @@
 * Daniel López
 * Roberto Lacayo
 * Gulio Valenzuela
-* Sergio Cuevas
 
 ## Introducción
 En este parcial se busca presentar las competencias adquiridas en la creación de ´ShinyApps´. 
